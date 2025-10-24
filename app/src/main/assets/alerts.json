@@ -1,0 +1,18 @@
+{
+  "alerts": [
+    {
+      "id": "alerta-1",
+      "title": "Mantenimiento en Línea 1",
+      "description": "El servicio se encuentra operando con intervalos de 15 minutos entre Villa El Salvador y San Juan.",
+      "severity": "media",
+      "publishedAt": "2024-11-15T08:00:00Z"
+    },
+    {
+      "id": "alerta-2",
+      "title": "Extensión de horario",
+      "description": "Se amplía el horario nocturno hasta las 23:30 por eventos en el Centro de Lima.",
+      "severity": "baja",
+      "publishedAt": "2024-11-14T18:30:00Z"
+    }
+  ]
+}
